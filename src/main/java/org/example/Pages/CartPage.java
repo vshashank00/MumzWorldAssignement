@@ -25,8 +25,7 @@ public class CartPage extends Reusable {
             element.click();
         }
         waitForWebElement(driver, Proceed_to_Checkout).click();
-
-
         return new SignUpPage(driver);
+
     }
 }
