@@ -1,4 +1,4 @@
-Mumzworld Webstore Automation Script
+#Mumzworld Webstore Automation Script
 Overview
 This project contains an automation script for testing the core e-commerce flow on the Mumzworld webstore. The script automates the process of searching for a product, adding it to the bag, updating the quantity, proceeding to checkout, and registering a new user. The code is written in Java to demonstrate essential e-commerce functionality testing.
 
