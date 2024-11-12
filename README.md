@@ -21,7 +21,7 @@ Browser (Chrome, Firefox, or any other supported browser).
 Setup Instructions
 Clone the repository:
 
-git clone https://github.com/vshashank00/mumzworld-automation.git
+git clone https://github.com/vshashank00/MumzWorldAssignement.git
 cd mumzworld-automation
 Install required dependencies:
 
